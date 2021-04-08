@@ -1,7 +1,7 @@
 const Manager = require ('../lib/Manager');
 
 //name, email, id, role and school  name validation for manager
-const managerTest = new Manager ('Prani', 'prani@gmail.com', 4 , 'Manager', 109)
+const managerTest = new Manager ('Samuel', 'cordovas@gmail.com', 4 , 'Manager', 109)
 
 describe('Manager', () => {
     it('has a name', () =>{

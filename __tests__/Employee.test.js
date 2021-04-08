@@ -2,7 +2,6 @@ const Employee = require ('../lib/Employee');
 
 //name,email,id,role validation
 
-const employeeTest = new Employee ("Alisha", "panday.alisha90@gmail.com", 3 , "Employee");
 
 
 describe('Employee', () => {
