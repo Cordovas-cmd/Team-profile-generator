@@ -28,5 +28,8 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
+## How to use
+Team Profile Generator is a command-line application. At the command line, type in "node index" to run the application. The user will be presented with a series of questions related to the team members. The user is to provide all needed information by answering the series of questions. Once the user has answered all questions, the HTML output file using the team name as the file name will be generated under the "dist" folder.
 
+Inside VS Code, to view the generated html file, right-click the file and choose "Open in Default Browser" from the pop-up menu.
 ## Mock up
