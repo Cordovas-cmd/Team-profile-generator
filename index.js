@@ -14,7 +14,7 @@ const generateTemplate = require('./src/layout-template');
 
 
 // generating the html 
-const generateHtml = require('./generate-html');
+const generateHtml = require('./generate-html.js');
 
 // empty space to plug in data
 

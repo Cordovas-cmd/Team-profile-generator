@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(150, 169, 184);
 }
 .navbar-header {
     float: left;
@@ -12,7 +12,7 @@ body{
     font-size: 48px;}
 
 .navbar{
-    background: rgb(255,0,0);
+    background: rgb(1, 70, 126);
     color: rgb(255, 255, 255);
 }
 
