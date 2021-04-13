@@ -2,6 +2,7 @@
 
 Command line application that takes in information about employees on a software engineering team, then generate an HTML webpage that dispalys Data for each person. I ran tests to verify that the info was correct. No room for errors.
 
+[video instructions/demo] (https://drive.google.com/file/d/1Y0impSZcxYbgqnn45ULAlgFh9yqUHZ9t/view)
 ## User Story
 ```md
 AS A manager
@@ -29,7 +30,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 ## How to use
-Team Profile Generator is a command-line application. At the command line, type in "node index" to run the application. The user will be presented with a series of questions related to the team members. The user is to provide all needed information by answering the series of questions. Once the user has answered all questions, the HTML output file using the team name as the file name will be generated under the "dist" folder.
+Team Profile Generator is a command-line application. At the command line, type in "node index.js" to run the application. The user will be presented with a series of questions related to the team members. The user is to provide all needed information by answering the series of questions. Once the user has answered all questions, the HTML output file using the team name as the file name will be generated under the "dist" folder.
 
 Inside VS Code, to view the generated html file, right-click the file and choose "Open in Default Browser" from the pop-up menu. Or use Live server if available.
 ## Mock up
